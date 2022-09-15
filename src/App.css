@@ -1,0 +1,34 @@
+.App {
+	min-height: 100vh;
+}
+
+.section-container {
+	max-width: 60%;
+	width: 100%;
+	margin: 200px auto;
+}
+
+.section-textinput {
+	width: 100%;
+	padding: 0.5em;
+	font-style: italic;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	margin-bottom: 30px;
+}
+
+.sectionItems {
+	padding: 40px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.message {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.section {
+	display: flex;
+	align-items: center;
+	gap: 30px;
+	margin-bottom: 30px;
+}
